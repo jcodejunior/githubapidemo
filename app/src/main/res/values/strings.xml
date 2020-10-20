@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Api DEMO</string>
+    <string name="name">Full Name:&#160;</string>
+    <string name="username">Username</string>
+    <string name="email">Email:&#160;</string>
+    <string name="login">Login:&#160;</string>
+    <string name="followers">Followers:&#160;</string>
+    <string name="following">Following:&#160;</string>
+    <string name="owned_repos">Owned Repos</string>
+    <string name="location">Location:</string>
+</resources>
